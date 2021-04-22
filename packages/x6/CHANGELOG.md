@@ -1,3 +1,18 @@
+## @antv/x6 [1.18.6-beta.1](https://github.com/antvis/x6/compare/@antv/x6@1.18.5...@antv/x6@1.18.6-beta.1) (2021-04-22)
+
+
+### Bug Fixes
+
+* 🐛 del getBBoxOfNeatElement ([a29815d](https://github.com/antvis/x6/commit/a29815dc30c8dd7de8d61173debfd13c06912f36))
+
+
+### Performance Improvements
+
+* ⚡️ add getMatrixByElementAttr and getBBoxByElementAttr to reduce reflow ([79a946a](https://github.com/antvis/x6/commit/79a946a4b183d586e23be64d40e7e26b98d53b07))
+* ⚡️ optimize marker render ([df12110](https://github.com/antvis/x6/commit/df12110a0854668ddde8e2568dd35125d76b6f03))
+* ⚡️ optimize node render performance ([81f5d22](https://github.com/antvis/x6/commit/81f5d22ec1d20f1d1a21d8bab20ad336698292cf))
+* ⚡️ reduce dom op in sortViews ([57acd78](https://github.com/antvis/x6/commit/57acd785cc803e86b7f9aa8e2533769c0a9b0326))
+
 ## @antv/x6 [1.18.5](https://github.com/antvis/x6/compare/@antv/x6@1.18.4...@antv/x6@1.18.5) (2021-04-20)
 
 
